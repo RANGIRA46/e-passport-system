@@ -1,0 +1,21 @@
+{
+  "name": "e-passport-system",
+  "version": "1.0.0",
+  "description": "Border and Passport Management System   Rwanda Directorate General of Immigration and Emigration (DGIE)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RANGIRA46/e-passport-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RANGIRA46/e-passport-system/issues"
+  },
+  "homepage": "https://github.com/RANGIRA46/e-passport-system#readme"
+}
